@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshilsharmaa
-- 👀 I’m interested in Machine Learning, Data Science, C++,Python
-- 🌱 I’m currently learning Data Structure and Algorithm
+- 👀 I’m interested in Web Development, MERN stack
+- 🌱 I’m currently learning Data Structure and Algorithm, Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me harshilsharmaa0@gmail.com
 
