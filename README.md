@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshil Sharma</h1>
-<h3 align="center">A passionate developer from India <img height="20px" src="https://user-images.githubusercontent.com/71216106/188455744-30ec0d4f-ac03-44c3-8f2d-fd4b12c7cf36.svg" /></h3>
+<h3 align="center">A passionate developer from India <img height="15px" src="https://user-images.githubusercontent.com/71216106/188455744-30ec0d4f-ac03-44c3-8f2d-fd4b12c7cf36.svg" /></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshilsharmaa&label=Profile%20views&color=0e75b6&style=flat" alt="harshilsharmaa" /> </p>
 
