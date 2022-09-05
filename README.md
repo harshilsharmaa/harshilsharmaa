@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Nodejs, Express, MongoDB**
 
-- 📫 How to reach me **harshilsharmaa0@gmail.com**
+- 📫 How to reach me **harshilsharmaa51@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1B8bAlazJMUwGGx105gOPDDuxjoa-QD7Q/view?usp=sharing](https://drive.google.com/file/d/1B8bAlazJMUwGGx105gOPDDuxjoa-QD7Q/view?usp=sharing)
 
