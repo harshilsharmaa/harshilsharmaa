@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshilsharmaa" alt="harshilsharmaa" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://harshilsharma.tech](https://harshilsharma.tech)
+- 👨‍💻 All of my projects are available at [https://harshilsharma.in](https://harshilsharma.in)
 
 - 💬 Ask me about **React, Nodejs, Express, MongoDB**
 
