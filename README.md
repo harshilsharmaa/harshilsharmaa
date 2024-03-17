@@ -11,12 +11,9 @@
 
 - 📫 How to reach me **harshilsharmaa51@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1B8bAlazJMUwGGx105gOPDDuxjoa-QD7Q/view?usp=sharing](https://drive.google.com/file/d/1B8bAlazJMUwGGx105gOPDDuxjoa-QD7Q/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harshilsharmaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshilsharmaa" height="30" width="40" /></a>
-<a href="https://instagram.com/harshilsharmaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshilsharmaa" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/harshilsharmaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshilsharmaa" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/harshilsharmaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshilsharmaa" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harshilsharmaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshilsharmaa" height="30" width="40" /></a>
